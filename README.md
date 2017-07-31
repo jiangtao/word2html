@@ -8,8 +8,14 @@ word2html  based on pandoc
 word2html 
 ```
 
-## use shell 
+## use bash 
 
 ```bash
 bash convert.sh
+```
+
+## use curl
+
+```bash
+curl https://raw.githubusercontent.com/jiangtao/word2html/master/convert.sh | sh
 ```
