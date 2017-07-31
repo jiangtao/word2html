@@ -1,0 +1,20 @@
+{
+  "name": "word2html",
+  "version": "0.0.1",
+  "description": "word to html based on pandoc",
+  "main": "index.js",
+  "bin": {
+      "word2html": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word",
+    "html",
+    "doc",
+    "docx"
+  ],
+  "author": "321jiangtao@gmail.com",
+  "license": "MIT"
+}
